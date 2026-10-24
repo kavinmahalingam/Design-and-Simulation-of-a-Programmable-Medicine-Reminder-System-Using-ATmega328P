@@ -1,11 +1,16 @@
 # Design and Simulation of a Programmable Medicine Reminder System Using ATmega328P
 
-**Author:** KAVIN M**
-**Registration Number:** RA2411004010025**
-**Department of Electronics and Communication Engineering**  
-**SRM Institute of Science and Technology, Chennai, India  
-**Course:** 21ECC301P – Microprocessor, Microcontroller and Interfacing Techniques  
-**Academic Year:** 2026–2027
+Author:KAVIN M
+
+Registration Number:RA2411004010025
+
+Department of Electronics and Communication Engineering
+
+SRM Institute of Science and Technology, Chennai.
+
+Course: 21ECC301P – Microprocessor, Microcontroller and Interfacing Techniques  
+
+Academic Year: 2026–2027
 
 ## Abstract
 
